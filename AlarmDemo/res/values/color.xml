@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="screenbg">#0863B9</color>
+    <color name="screenbg_light">#258CEB</color>
+    <color name="text_color">#fff</color>
+    <color name="list_divider">#cccccc</color>
+</resources>
